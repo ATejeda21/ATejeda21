@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy Fredy Alejandro Tejeda
 
-<!--
-**ATejeda21/ATejeda21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Sistemas y actualmente estoy aprendiendo desarrollo web, bases de datos y análisis de datos.  
+No soy experto todavía, pero sí he tenido la oportunidad de trabajar en varios proyectos universitarios que me han servido para practicar y mejorar poco a poco.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Proyectos que he realizado
+
+### 🧑‍💼 Sistema de RRHH – Intelafix (Laravel 11 + MySQL)
+Proyecto universitario donde participé en la creación de un sistema para gestionar empleados y logros internos.  
+🔗 https://github.com/ATejeda21/intelafix-rrhh
+
+---
+
+### 🧾 Sistema de Gestión Fullstack – React + Node.js + SQL Server
+Proyecto donde construí el frontend en React y trabajé con APIs en Node.js, haciendo pruebas en Postman.  
+🔗 https://github.com/ATejeda21/sistema-gestion-fullstack
+
+---
+
+### 📦 Costo Mínimo – Python + Streamlit
+Aplicación interactiva para resolver un modelo de transporte usando programación lineal.  
+🔗 https://github.com/ATejeda21/costo-minimo-streamlit
+
+---
+
+# ✨ Sobre mí
+- Me gusta aprender con proyectos reales.  
+- Me adapto rápido a nuevas herramientas.  
+- Estoy en la etapa de seguir practicando para mejorar.  
+- Me interesa el desarrollo web, soporte técnico y análisis de datos.
+
+---
+
+# 📫 Contacto
+📧 **alejandrotejeda977@gmail.com**
