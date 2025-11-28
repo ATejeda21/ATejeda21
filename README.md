@@ -1,4 +1,4 @@
-# 👋 Hola, soy Fredy Alejandro Tejeda
+# 👋 Hola, soy Alejandro Tejeda
 
 Soy estudiante de Ingeniería en Sistemas y actualmente estoy aprendiendo desarrollo web, bases de datos y análisis de datos.  
 No soy experto todavía, pero sí he tenido la oportunidad de trabajar en varios proyectos universitarios que me han servido para practicar y mejorar poco a poco.
