@@ -1,7 +1,8 @@
 # 👋 Hola, soy Alejandro Tejeda
 
-Soy estudiante de Ingeniería en Sistemas y actualmente estoy aprendiendo desarrollo web, bases de datos y análisis de datos.  
-No soy experto todavía, pero sí he tenido la oportunidad de trabajar en varios proyectos universitarios que me han servido para practicar y mejorar poco a poco.
+Estudiante de Ingeniería en Sistemas (9.º semestre) con enfoque en desarrollo web y construcción de APIs. Experiencia académica desarrollando aplicaciones con React, Node.js, Express y bases de datos SQL, integrando frontend con servicios backend mediante APIs REST y manejo de datos en JSON.
+
+Con conocimientos en desarrollo backend, consumo de APIs, control de versiones con Git y uso de herramientas como Postman. Perfil junior con alta capacidad de aprendizaje y motivación para participar en proyectos de desarrollo e integración de sistemas.
 
 ---
 
